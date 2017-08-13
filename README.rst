@@ -1,6 +1,15 @@
 Google 开源项目风格指南 (中文版)
 ================================
 
+Usage:
+
++ git clone ..
++ pip install sphinx_rtd_theme
++ make html
++ open _build/html/google-python-styleguide/index.html
+
+
+
 * 在线文档托管在 ReadTheDocs : `在线阅读最新版本 <http://zh-google-styleguide.readthedocs.org/>`_
 
 * 中文风格指南 GitHub 托管地址：`zh-google-styleguide <https://github.com/zh-google-styleguide/zh-google-styleguide>`_
